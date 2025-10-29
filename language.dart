@@ -1,0 +1,777 @@
+class LanguageTranslations {
+  static const _localizedValues = {
+    'en': {
+      // Splash Screen
+      'mandobak': 'Mandobak',
+      'your connection to public services': 'Your Connection to Public Services',
+      'access all essential government services': 'Access all essential government services, simple, trusted, and in one place.',
+      'next': 'Next',
+      'for every step in life': 'For Every Step in Life',
+      'whether its a new id, a business license, or family support, mandobak is here for you': 'Whether it\'s a new ID, a business license, or family support, Mandobak is here for you.',
+      'designed for citizens, powered by trust': 'Designed for Citizens, Powered by Trust',
+      'built with care for qataris and residents alike. safe, official, and always available': 'Built with care for Qataris and residents alike. Safe, official, and always available.',
+      'get started': 'Get Started',
+      
+      // Login
+      'all government services in one app': 'All Government Services in One App.',
+      'welcome to mandobak': 'Welcome to Mandobak',
+      'your gateway to official qatar government services': 'Your gateway to official Qatar government services.',
+      'full name': 'Full Name',
+      'enter your full name': 'Enter your Full Name',
+      'email id': 'Email ID',
+      'enter your mail id': 'Enter your Mail ID',
+      'phone number': 'Phone Number',
+      'enter your qatar mobile number': 'Enter your Qatar mobile number',
+      'sign up': 'Sign Up',
+      'sign in as vendor': 'Sign in as Vendor',
+      'or': 'OR',
+      'continue as guest': 'Continue as Guest',
+      'sign in': 'Sign In',
+      'customer account not found': 'Customer Account Not Found',
+      'no customer account found with this phone number': 'No customer account found with this phone number.',
+      'would you like to create a new customer account?': 'Would you like to create a new customer account?',
+      'cancel': 'Cancel',
+      'create account': 'Create Account',
+      'dont have account? ': 'Don\'t have an account? ',
+      'please enter your email': 'Please Enter your Email',
+      'please enter your phone number': 'Please enter your phone number',
+      'please enter a valid phone number': 'Please enter a valid phone number',
+      'verify with otp sent to': 'Verify with OTP sent to',
+      'didnt receive it? resend in': 'Didn\'t receive it? Resend in',
+      'continue': 'Continue',
+      'pay now': 'Pay Now',
+      'resend otp': 'Resend OTP',
+      
+      
+      
+      // Dashboard
+      'our services': 'Our Services',
+      'view all': 'View All',
+      'popular services': 'Popular Services',
+      'departments': 'Departments',
+      'news': 'News',
+      'welcome': 'Welcome',
+      'no categories available.': 'No categories available.',
+      
+      // All Popular Services
+      'all popular services': 'All Popular Services',
+      'error loading data': 'Error loading data',
+      'no popular services found': 'No popular services found',
+      
+      // All Service
+      'all services': 'All Services',
+      'requirements': 'Requirements',
+      
+      // All Departments
+      'all departments': 'All Departments',
+      'no departments found': 'No Departments Found',
+      'error': 'Error',
+      
+      // All News
+      'all news': 'All News',
+      'no news found': 'No News Found',
+      'news details': 'News Details',
+      
+      // Navbar
+      'home': 'Home',
+      'order': 'Order',
+      'support': 'Support',
+      'all': 'All',
+      
+      // Choose Plan
+      'choose plan': 'Choose Plan',
+      
+      // Check Out
+      'check out': 'Check Out',
+      'edit': 'Edit',
+      'please upload your document\nafter your payment has\ncomplete.': 'Please upload your document\nafter your payment has\ncomplete.',
+      'document requirements': 'Document Requirements',
+      'price breakdown': 'Price Breakdown',
+      'grand total': 'Grand Total',
+      'total': 'Total',
+      'choose payment method': 'Choose Payment Method',
+      
+      // Payment
+      'payment': 'Payment',
+      'payment successful': 'Payment Successful',
+      'your payment has been completed successfully.': 'Your payment has been completed successfully.',
+      'please proceed to the order detail page to upload all required documents and complete your service request.': 'Please proceed to the Order Detail page to upload all required documents and complete your service request.',
+      'go to order details page': 'Go to Order Details Page',
+      'you can check payment details later from your profile': 'You can check payment details later from your profile',
+      
+      // Profile
+      'profile': 'Profile',
+      'edit profile': 'Edit Profile',
+      'notifications': 'Notifications',
+      'my orders': 'My Orders',
+      'privacy policy': 'Privacy Policy',
+      'terms & conditions': 'Terms & Conditions',
+      'faqs': 'FAQ\'s',
+      'language': 'Language',
+      'settings': 'Settings',
+      'remove profile image': 'Remove Profile Image',
+      'are you sure you want to remove your profile image?': 'Are you sure you want to remove your profile image?',
+      'remove': 'Remove',
+      'update profile image': 'Update Profile Image',
+      'name': 'Name',
+      'email': 'Email',
+      'save': 'Save',
+      'save profile': 'Save Profile',
+      'enter your phone number': 'Enter your Phone Number',
+      'address': 'Address',
+      'enter your address': 'Enter your Address',
+      
+      // Validation & Error Messages
+      'please enter your full name': 'Please enter your full name',
+      'please enter your valid email address': 'Please enter a valid email address',
+      'please enter your address': 'Please enter your address',
+      'user document not found': 'User document not found',
+      
+      // Image Section
+      'choose from gallery': 'Choose from Gallery',
+      'take photo': 'Take Photo',
+      'Remove Profile Image': 'Remove Profile Image',
+      'Cancel': 'Cancel',
+      'image is too large. Please select a smaller image.': 'Image is too large. Please select a smaller image.',
+      'image is too large. please try a different image.': 'Image is too large. Please try a different image.',
+      'error selecting image. Please try again.': 'Error selecting image. Please try again.',
+      'Error taking photo. Please try again.': 'Error taking photo. Please try again.',
+      
+      // Success
+      'Profile updated successfully': 'Profile updated successfully',
+      
+      // Chat
+      'chat': 'Chat',
+      'loading chats': 'Loading chats...',
+      'vendorname': 'Vendor Name',
+      'error loading chats': 'Error loading chats',
+      'No chats yet': 'No chats yet',
+      'Start a conversation with a vendor': 'Start a conversation with a vendor',
+      'Unknown Service': 'Unknown Service',
+      'no messages yet': 'No messages yet',
+      'no message': 'No message',
+      'just now': 'Just Now',
+      'yesterday': 'Yesterday',
+      'Unknown': 'Unknown',
+      'type your message': 'Type Your Message',
+      'm ago': 'm ago',
+      'h ago': 'h ago',
+      'd ago': 'd ago',
+      
+      // My Orders
+      'documents Upload': 'Documents Upload',
+      'download documents': 'Download Documents',
+      'no data found': 'No Data Found',
+      'order date': 'Order Date',
+      'order id': 'Order Id',
+      'status: Order Inprogress': 'Status: Order Inprogress',
+      'documents pending': 'Documents Pending',
+      'documents under review': 'Documents Under Review',
+      'documents in verification': 'Documents in Verification',
+      'documents verification failed': 'Documents Verification Failed',
+      
+      // Order Details
+      'order details': 'Order Details',
+      'upload documents': 'Upload Documents',
+      '*your application will be reviewed after submission.': '*Your application will be reviewed after submission.',
+      'delivery info': 'Delivery Info',
+      'estimated delivery time': 'Estimated Delivery Time',
+      'chat with our support': 'Chat with our Support',
+      'lorem ipsum dolor sit amet consectetur. pulvinar lacus felis ultrices': 'Lorem ipsum dolor sit amet consectetur. Pulvinar lacus felis ultrices',
+      'mon - sat': 'Mon - Sat',
+      'payment information': 'Payment Information',
+      'submit': 'Submit',
+      'order status': 'Order Status',
+      'error loading order': 'Error loading order',
+      'order not found': 'Order not found',
+      'base price': '(Base Price)',
+      'qar': 'QAR',
+      'completed': 'Completed',
+      'in progress': 'In Progress',
+      'under review': 'Under Review',
+      'upload documents again': 'Upload Documents Again',
+      'download now': 'Download Now',
+      'documents issued for download': 'Documents issued for download',
+      'documents are verified currently processing': 'Documents are verified. Currently processing.',
+      'required documents were not accurate': 'Required documents for the Visit Visa application were not accurate.',
+      'please upload all required documents to proceed': 'Please upload all required documents to proceed with your application.',
+      'uploaded all required documents successfully and waiting for review': 'Uploaded all required documents Successfully and waiting for review.',
+      'order completed': 'Order Completed',
+      'documents failed': 'Documents Failed',
+      'documents submitted': 'Documents Submitted',
+      'no requirement forms found': 'No requirement forms found.',
+      'no accordion elements available': 'No document sections available.',
+      'of': 'of',
+      'required documents uploaded': 'required documents uploaded',
+      'submit & send': 'Submit & Send',
+      'upload all required documents': 'Upload All Required Documents',
+      'files uploaded': 'file(s) uploaded',
+      'documents submitted successfully': 'Documents submitted successfully!',
+      'error submitting documents': 'Error submitting documents',
+      'image is too long. please select a smaller image.': 'Image is too large. Please select a smaller image.',
+      
+      // Vendor Pages
+      'login successful!': 'Login Successful!',
+      'logintitle': 'Mandobak',
+      'subtitle': 'All Government Services in One App.',
+      'bodytitle': 'Vendor Manager',
+      'admin manager': 'Admin Manager',
+      'bodysubtitle': 'Access a wide range of official services from the Qatar government.',
+      'username': 'Username *',
+      'password': 'Password *',
+      'forgotpassword': 'Forgot Password?',
+      'contactadmin': 'Contact Admin',
+      'signin': 'Sign In',
+      'signinascustomer': 'Sign in as Customer',
+      'enteryouremailid': 'Enter your Mail ID',
+      'enteryourpassword': 'Enter your Password',
+      'username is required': 'Username is required',
+      'password is required': 'Password is required',
+      'invalid username or not a vendor account': 'Invalid username or not a vendor account',
+      'invalid password': 'Invalid password',
+      'login failed': 'Login failed. Please try again.',
+      'logout': 'Logout',
+      'are you want to logout?': 'Are you want to Logout?',
+      
+      // Dashboard
+      'dashboardtitle': 'Vendor Login',
+      'admin login': 'Welcome Admin!',
+      'insights': 'Insights',
+      'viewall': 'View All',
+      'totalorders': 'Total Orders',
+      'inprogressorders': 'In Progress Orders',
+      'completedorders': 'Completed Orders',
+      'pendingorders': 'Pending Orders',
+      'allorders': 'All Orders',
+      'reject': 'Reject',
+      'accept': 'Accept',
+      
+      // Order's Page
+      'ordertitle': 'All Orders',
+      'accepted': 'Accepted',
+      'rejected': 'Rejected',
+      'reviewdocuments': 'Review Documents',
+      'docverify': 'Document Verified',
+      
+      // Order's Details Page
+      'morerequirements': 'more requirements',
+      'ordernotfound': 'Order Not Found',
+      'orderdetails': 'Order Details',
+      'orderid': 'Order ID',
+      'verifydocuments': 'Verify Documents',
+      'docsubtitle': 'Please ensure that all necessary documents are collected and verified it.',
+      'viewdoc': 'View Documents',
+      'paymentinfo': 'Payment Information',
+      'pricebreakdown': 'Price Breakdown',
+      'grandtotal': 'Grand Total',
+      'viewcustomerdocuments': 'View Customer Documents',
+      'delivereddocuments': 'Delivered Documents',
+      'QAR': 'QAR',
+      'totalearnings': 'Total Earnings',
+      'estimateddelivery': 'Estimated Delivery Time',
+      'documentsapproved': 'Documents Approved',
+      'documentstitle': 'All necessary documents are collected for processing.',
+      'completeorder': 'Complete Order',
+      'uploaddoc' : 'Upload Final Documents to complete',
+      'uploadatleastone' : 'Please upload at least one document',
+      'order completed successfully': 'Order completed successfully! Vendor earner QAR ',
+      'please upload all required documents to complete the order.': 'Please upload all required documents to complete the order.',
+      'error loading documents': 'Error loading documents',
+      'no documents found': 'No documents found',
+      'customerid': 'Customer ID',
+      'no valid documents found': 'No valid documents found',
+      'issued documents': 'Issued Documents',
+      'additional documents': 'Additional Documents',
+      'approve': 'Approve',
+      'documents approved sucessfully!': 'Documents Approved sucessfully!',
+      'documets rejected,additional documents required': 'Documets Rejected,Additional Documents Required',
+      'approve documents' : 'Approve Documents',
+      'are you sure you want to approve these documents?': 'Are you sure you want to approve these documents?',
+      'reject docments': 'Reject Documents',
+      'are you sure you want to reject these documents? This will require the customer to submit additional documents.' : 'Are you sure you want to reject these documents? This will require the customer to submit additional documents.',
+      'ok': 'Ok',
+      'failed to download file' : 'Failed to download file',
+      'failed to open file' : 'Failed to open file',
+      'file was not created successfully': 'File was not created sucessfully',
+      'could not open file' : 'Could not open file',
+      'failed to update status': 'Failed to update status',
+      'request additional documents': 'Request Additional Documents',
+      'requested additional documents': 'Requested Additional Documents',
+      'enter document name': 'Enter Document Name...',
+      'add': 'Add',
+      'add document': 'Add Document',
+      'request': 'Request',
+      'note additional documents info': 'Note: This will change the order status to "Order Inprogress" and document status to "Additional Documents Required".',
+      'invalid document url': 'Invalid Document URL',
+      'pending • additional document': 'Pending • Additional Document',
+      'uploaded additional documents': 'Uploaded Additional Documents',
+      'retry': 'Retry',
+      'additional documents required': 'Additional Documents Required',
+
+      // Documents Page
+      'documents': 'Documents',
+      'view': 'View',
+      'requestadditional': 'Request Additional Documents',
+      
+      // Complete Order Page
+      'completeordertitle': 'Complete Order',
+      'finaldocsubtitle': 'Please upload all required documents to complete the order.',
+      'uploaddocuments': 'Upload Yyour document',
+      'supportfiles': 'Supported file types: PNG, JPG, PDF',
+      'browse': 'Browse',
+      'submitsend': 'Submit & Send',
+      
+      // Chat Page
+      'chattitle': 'Chats',
+      'chat with us':'Chat With Us',
+      // Choose Order
+      'chooseordertitle': 'Choose Order Action',
+      'ordersubtitle': 'Please choose how you\'d like to proceed with this order:',
+      'category': 'Category: Company Formation',
+      'accept myself': 'Accept Myself',
+      'assign others': 'Assign Others',
+      'assigntovendor': 'Assign to Vendor',
+      'assign': 'Assign',
+      'no orders found': 'No Orders Found',
+      'failed to assign order': 'Failed to assign order:',
+      'order assigned to vendor successfully': 'Order assigned to vendor successfully',
+      'nocompaniesavaliable': 'No companies available',
+      'search vendors or companies': 'Search vendors or companies...',
+      'assigned to': 'Assigned to',
+      'please select a company': 'Please select a company',
+      'buttonassign': 'Assign',
+      
+      // Notification
+      'your order # has been assigned to a vendor and is now in progress': 'Your order # has been assigned to a vendor and is now in progress',
+      'your order has been assigned': 'Your order has been assigned',
+      'order assigned to you successfully': 'Order assigned to you successfully',
+      
+      // Dialog
+      'no': 'No',
+      'reject order': 'Reject Order',
+      'are you sure you want to reject this order?': 'Are you sure you want to reject this order?',
+      'yes': 'Yes',
+      
+          // Vendor Status Card
+       'verify documents': 'Verify Documents',
+       'documents uploaded': 'Documents Uploaded',
+       'documents approved': 'Documents Approved',
+       'documents delivered': 'Documents Delivered',
+       'additional documents needed': 'Additional Documents Needed',
+      
+       // Descriptions
+       'waiting for customer to upload required documents':
+           'Waiting for customer to upload required documents.',
+       'please ensure that all necessary documents are collected and verified.':
+           'Please ensure that all necessary documents are collected and verified.',
+       'all necessary documents are collected for processing.':
+           'All necessary documents are collected for processing.',
+       'order fulfilled. All documents processed and delivered to customer.':
+           'Order fulfilled. All documents processed and delivered to customer.',
+       'requested additional documents from customer to complete verification.':
+           'Requested additional documents from customer to complete verification.',
+       'monitoring customer order progress. Current status:':
+           'Monitoring customer order progress. Current status:',
+      
+       // Buttons
+       'view customer documents': 'View Customer Documents',
+       'delivered documents': 'Delivered Documents',
+
+       'waiting for vendor acceptance': 'Waiting for Vendor Acceptance',
+       'assigned': 'Assigned'
+    },
+    'ar': {
+      // Splash Screen
+      'mandobak': 'مندوبك',
+      'your connection to public services': 'صلة وصلك بالخدمات العامة',
+      'access all essential government services': 'الوصول إلى جميع الخدمات الحكومية الأساسية بسهولة وبثقة وفي مكان واحد.',
+      'next': 'التالي',
+      'for every step in life': 'لكل خطوة في الحياة',
+      'whether its a new id, a business license, or family support, mandobak is here for you': 'سواء كان بطاقة هوية جديدة أو رخصة عمل أو دعم عائلي، مندوبك هنا من أجلك.',
+      'designed for citizens, powered by trust': 'مصمم للمواطنين، مدعوم بالثقة',
+      'built with care for qataris and residents alike. safe, official, and always available': 'مصمم بعناية للمواطنين والمقيمين على حد سواء. آمن، رسمي، ومتوافر دائماً.',
+      'get started': 'ابدأ الآن',
+      
+      // Login
+      'all government services in one app': 'جميع الخدمات الحكومية في تطبيق واحد.',
+      'welcome to mandobak': 'مرحباً بكم في مندوبك',
+      'your gateway to official qatar government services': 'بوابتك إلى الخدمات الحكومية الرسمية في قطر.',
+      'full name': 'الاسم الكامل',
+      'enter your full name': 'أدخل اسمك الكامل',
+      'email id': 'البريد الإلكتروني',
+      'enter your mail id': 'أدخل بريدك الإلكتروني',
+      'phone number': 'رقم الهاتف',
+      'enter your qatar mobile number': 'أدخل رقم هاتفك في قطر',
+      'sign up': 'سجل الآن',
+      'sign in as vendor': 'تسجيل الدخول كبائع',
+      'or': 'أو',
+      'continue as guest': 'المتابعة كضيف',
+      'sign in': 'تسجيل الدخول',
+      'customer account not found': 'لم يتم العثور على حساب العميل',
+      'no customer account found with this phone number': 'لم يتم العثور على أي حساب عميل بهذا الرقم.',
+      'would you like to create a new customer account?': 'هل ترغب في إنشاء حساب عميل جديد؟',
+      'cancel': 'إلغاء',
+      'create account': 'إنشاء حساب',
+      'dont have account? ': 'ليس لديك حساب؟',
+      'please enter your email': 'يرجى إدخال بريدك الإلكتروني',
+      'please enter your phone number': 'يرجى إدخال رقم هاتفك',
+      'please enter a valid phone number': 'يرجى إدخال رقم هاتف صحيح',
+      'verify with otp sent to': 'تحقق باستخدام رمز التحقق المرسل إلى',
+      'didnt receive it? resend in': 'لم تستلم الرمز؟ إعادة الإرسال بعد',
+      'continue': 'استمر',
+      'select an option': 'اختر خيارًا',
+      'pay now': 'ادفع الآن',
+      'resend otp': 'إعادة إرسال رمز التحقق',
+      'logout': 'تسجيل الخروج',
+      'are you want to logout?': 'هل أنت متأكد أنك تريد تسجيل الخروج؟',
+      
+      // Dashboard
+      'our services': 'خدماتنا',
+      'view all': 'عرض الكل',
+      'popular services': 'الخدمات الشائعة',
+      'departments': 'الأقسام',
+      'news': 'الأخبار',
+      'welcome': 'مرحبا',
+      'no categories available.': 'لا توجد فئات متاحة',
+      
+      // All Popular Services
+      'all popular services': 'جميع الخدمات الشائعة',
+      'error loading data': 'خطأ في تحميل البيانات',
+      'no popular services found': 'لم يتم العثور على أي خدمات شائعة',
+      
+      // All Service
+      'all services': 'جميع الخدمات',
+      'requirements': 'متطلبات المستندات',
+      
+      // All Departments
+      'all departments': 'جميع الأقسام',
+      'no departments found': 'لم يتم العثور على أي أقسام',
+      'error': 'خطأ',
+      
+      // All News
+      'all news': 'جميع الأخبار',
+      'no news found': 'لم يتم العثور على أي أخبار',
+      'news details': 'تفاصيل الأخبار',
+      
+      // Navbar
+      'home': 'الرئيسية',
+      'order': 'الطلبات',
+      'support': 'الدعم',
+      'all': 'الكل',
+      
+      // Choose Plan
+      'choose plan': 'اختر الخطة',
+      
+      // Check Out
+      'check out': 'إتمام الدفع',
+      'edit': 'تعديل',
+      'please upload your document\nafter your payment has\ncomplete.': 'يرجى تحميل المستند بعد\nإتمام الدفع.',
+      'document requirements': 'متطلبات المستندات',
+      'price breakdown': 'تفاصيل السعر',
+      'grand total': 'المجموع النهائي',
+      'total': 'المجموع',
+      'choose payment method': 'اختر طريقة الدفع',
+      
+      // Payment
+      'payment': 'الدفع',
+      'payment successful': 'تم الدفع بنجاح',
+      'your payment has been completed successfully.': 'تم إكمال الدفع بنجاح.',
+      'please proceed to the order detail page to upload all required documents and complete your service request.': 'يرجى الانتقال إلى صفحة تفاصيل الطلب لتحميل جميع المستندات المطلوبة وإكمال طلب الخدمة الخاص بك.',
+      'go to order details page': 'اذهب إلى صفحة تفاصيل الطلب',
+      'you can check payment details later from your profile': 'يمكنك التحقق من تفاصيل الدفع لاحقًا من ملفك الشخصي',
+      
+      // Profile
+      'profile': 'الملف الشخصي',
+      'edit profile': 'تعديل الملف الشخصي',
+      'notifications': 'الإشعارات',
+      'my orders': 'طلباتي',
+      'privacy policy': 'سياسة الخصوصية',
+      'terms & conditions': 'الأحكام والشروط',
+      'faqs': 'الأسئلة الشائعة',
+      'language': 'اللغة',
+      'settings': 'الإعدادات',
+      'remove profile image': 'إزالة صورة الملف الشخصي',
+      'are you sure you want to remove your profile image?': 'هل أنت متأكد أنك تريد إزالة صورة ملفك الشخصي؟',
+      'remove': 'إزالة',
+      'update profile image': 'تحديث صورة الملف الشخصي',
+      'name': 'الاسم',
+      'email': 'البريد الإلكتروني',
+      'save': 'حفظ',
+      'save profile': 'حفظ الملف الشخصي',
+      'enter your phone number': 'أدخل رقم هاتفك',
+      'address': 'العنوان',
+      'enter your address': 'أدخل عنوانك',
+      
+      // Validation & Error Messages
+      'please enter your full name': 'يرجى إدخال اسمك الكامل',
+      'please enter your valid email address': 'يرجى إدخال بريد إلكتروني صالح',
+      'please enter your address': 'يرجى إدخال عنوانك',
+      'user document not found': 'لم يتم العثور على مستند المستخدم',
+      
+      // Image Section
+      'choose from gallery': 'اختر من المعرض',
+      'take photo': 'التقط صورة',
+      'Remove Profile Image': 'إزالة صورة الملف الشخصي',
+      'Cancel': 'إلغاء',
+      'image is too large. Please select a smaller image.': 'الصورة كبيرة جدًا. يرجى اختيار صورة أصغر.',
+      'image is too large. please try a different image.': 'الصورة كبيرة جدًا. يرجى تجربة صورة أخرى.',
+      'error selecting image. Please try again.': 'حدث خطأ أثناء اختيار الصورة. يرجى المحاولة مرة أخرى.',
+      'Error taking photo. Please try again.': 'حدث خطأ أثناء التقاط الصورة. يرجى المحاولة مرة أخرى.',
+      
+      // Success
+      'Profile updated successfully': 'تم تحديث الملف الشخصي بنجاح',
+      
+      // Chat
+      'chat': 'الدردشة',
+      'loading chats': 'جارٍ تحميل المحادثات...',
+      'vendorname': 'اسم البائع',
+      'error loading chats': 'خطأ في تحميل المحادثات',
+      'No chats yet': 'لا توجد محادثات بعد',
+      'Start a conversation with a vendor': 'ابدأ محادثة مع البائع',
+      'Unknown Service': 'خدمة غير معروفة',
+      'no messages yet': 'لا توجد رسائل بعد',
+      'no message': 'لا توجد رسالة',
+      'just now': 'الآن',
+      'yesterday': 'أمس',
+      'Unknown': 'غير معروف',
+      'type your message': 'اكتب رسالتك',
+      'm ago': 'دقيقة',
+      'h ago': 'ساعة',
+      'd ago': 'يوم',
+      
+      // My Orders
+      'documents Upload': 'تحميل المستندات',
+      'download documents': 'تحميل المستندات',
+      'no data found': 'لا توجد بيانات',
+      'order date': 'تاريخ الطلب',
+      'order id': 'رقم الطلب',
+      'status: in progress': 'الحالة: قيد التنفيذ',
+      'documents pending': 'المستندات معلقة',
+      'documents under review': 'المستندات قيد المراجعة',
+      'documents in verification': 'المستندات تحت المراجعة',
+      'documents verification failed': 'فشل التحقق من المستندات',
+      
+      // Order Details
+      'order details': 'تفاصيل الطلب',
+      'upload documents': 'تحميل المستندات',
+      '*your application will be reviewed after submission.': '*سيتم مراجعة طلبك بعد الإرسال.',
+      'delivery info': 'معلومات التوصيل',
+      'estimated delivery time': 'الوقت المقدر للتوصيل',
+      'chat with our support': 'الدردشة مع دعمنا',
+      'lorem ipsum dolor sit amet consectetur. pulvinar lacus felis ultrices': 'نص تجريبي لتوضيح التصميم. مثال على المحتوى.',
+      'mon - sat': 'الاثنين - السبت',
+      'chat with us': 'الدردشة معنا',
+      'payment information': 'معلومات الدفع',
+      'submit': 'إرسال',
+      'order status': 'حالة الطلب',
+      'error loading order': 'خطأ في تحميل الطلب',
+      'order not found': 'الطلب غير موجود',
+      'base price': '(السعر الأساسي)',
+      'qar': 'ريال قطري',
+      'search Services': 'بحث عن الخدمات',
+      'completed': 'مكتمل',
+      'in progress': 'قيد التنفيذ',
+      'under review': 'قيد المراجعة',
+      'upload documents again': 'تحميل المستندات مرة أخرى',
+      'download now': 'تحميل الآن',
+      'documents issued for download': 'تم إصدار المستندات للتحميل',
+      'documents are verified currently processing': 'تم التحقق من المستندات. جاري المعالجة حالياً.',
+      'required documents were not accurate': 'المستندات المطلوبة لطلب تأشيرة الزيارة لم تكن دقيقة.',
+      'please upload all required documents to proceed': 'يرجى تحميل جميع المستندات المطلوبة للمتابعة مع طلبك.',
+      'uploaded all required documents successfully and waiting for review': 'تم تحميل جميع المستندات المطلوبة بنجاح وفي انتظار المراجعة.',
+      'order completed': 'الطلب مكتمل',
+      'documents failed': 'فشل المستندات',
+      'documents submitted': 'تم إرسال المستندات',
+      'no requirement forms found': 'لم يتم العثور على نماذج المتطلبات.',
+      'no accordion elements available': 'لا توجد أقسام مستندات متاحة.',
+      'of': 'من',
+      'required documents uploaded': 'المستندات المطلوبة تم تحميلها',
+      'submit & send': 'إرسال وإرسال',
+      'upload all required documents': 'تحميل جميع المستندات المطلوبة',
+      'files uploaded': 'ملف/ملفات تم تحميلها',
+      'documents submitted successfully': 'تم إرسال المستندات بنجاح!',
+      'error submitting documents': 'خطأ في إرسال المستندات',
+      'image is too large. please select a smaller image.': 'الصورة كبيرة جدًا. يرجى اختيار صورة أصغر.',
+      'error selecting image. please try again.': 'خطأ في تحديد الصورة. يرجى المحاولة مرة أخرى.',
+      'image is too long. please select a smaller image.': 'الصورة طويلة جدًا. يرجى اختيار صورة أصغر.',
+      
+      // Vendor Pages
+       'login successful!': '!تم تسجيل الدخول بنجاح ',
+      'logintitle': 'مندوبك',
+      'subtitle': 'جميع الخدمات الحكومية في تطبيق واحد.',
+      'bodytitle': 'مدير البائع',
+      'admin manager': 'مدير المسؤول',
+      'bodysubtitle': 'الوصول إلى مجموعة واسعة من الخدمات الرسمية المقدمة من حكومة قطر.',
+      'username': 'اسم المستخدم *',
+      'password': 'كلمة المرور *',
+      'forgotpassword': 'هل نسيت كلمة المرور؟',
+      'contactadmin': 'اتصل بالمسؤول',
+      'signin': 'تسجيل الدخول',
+      'signinascustomer': 'تسجيل الدخول كعميل',
+      'enteryouremailid': 'أدخل بريدك الإلكتروني',
+      'enteryourpassword': 'أدخل كلمة المرور',
+      'username is required': 'اسم المستخدم مطلوب',
+      'password is required': 'كلمة المرور مطلوبة',
+      'invalid username or not a vendor account': 'اسم مستخدم غير صالح أو ليس حساب بائع',
+      'invalid password': 'كلمة مرور غير صحيحة',
+      'login failed': 'فشل تسجيل الدخول. يرجى المحاولة مرة أخرى.',
+      
+      // Dashboard
+      'dashboardtitle': 'تسجيل دخول البائع',
+      'admin login': 'مرحباً بك أيها المسؤول!',
+      'insights': 'التحليلات',
+      'viewall': 'عرض الكل',
+      'totalorders': 'إجمالي الطلبات',
+      'inprogressorders': 'الطلبات قيد التنفيذ',
+      'completedorders': 'الطلبات المكتملة',
+      'pendingorders': 'الطلبات المعلقة',
+      'allorders': 'جميع الطلبات',
+      'reject': 'رفض',
+      'accept': 'قبول',
+      
+      // Order's Page
+      'ordertitle': 'جميع الطلبات',
+      'accepted': 'مقبول',
+      'rejected': 'مرفوض',
+      'reviewdocuments': 'مراجعة المستندات',
+      'docverify': 'تم التحقق من المستندات',
+      
+      // Order's Details Page
+      'ordernotfound': 'الطلب غير موجود',
+      'morerequirements': 'المزيد من المتطلبات',
+      'orderdetails': 'تفاصيل الطلب',
+      'orderid': 'معرف الطلب',
+      'verifydocuments': 'التحقق من المستندات',
+      'docsubtitle': 'يرجى التأكد من جمع جميع المستندات اللازمة والتحقق منها.',
+      'viewdoc': 'عرض المستندات',
+      'paymentinfo': 'معلومات الدفع',
+      'pricebreakdown': 'تفاصيل السعر',
+      'grandtotal': 'المجموع الكلي',
+      'viewcustomerdocuments': 'عرض مستندات العميل',
+      'delivereddocuments': 'المستندات المسلمة',
+      'QAR': 'ريال قطري',
+      'totalpaid': 'إجمالي المدفوع',
+      'totalearnings': 'إجمالي الأرباح',
+      'estimateddelivery': 'الوقت المقدر للتسليم',
+      'documentsapproved': 'المستندات المعتمدة',
+      'documentstitle': 'تم جمع كل المستندات المطلوبة للمعالجة.',
+      'completeorder': 'إكمال الطلب',
+      'uploaddoc' : 'تحميل المستندات النهائية لإكمال الطلب',
+      'uploadatleastone' : 'يرجى تحميل مستند واحد على الأقل',
+      'order completed successfully': 'تم إكمال الطلب بنجاح! ربح البائع ',
+      'please upload all required documents to complete the order.': 'يرجى تحميل جميع المستندات المطلوبة لإكمال الطلب.',
+      'error loading documents': 'خطأ في تحميل المستندات',
+      'no documents found': 'لم يتم العثور على أي مستندات',
+      'customerid': 'معرف العميل',
+      'no valid documents found': 'لم يتم العثور على مستندات صالحة',
+      'issued documents': 'المستندات الصادرة',
+      'additional documents': 'المستندات الإضافية',
+      'approve': 'معتمد',
+      'documents approved sucessfully!': 'تمت الموافقة على المستندات بنجاح!',
+      'documets rejected,additional documents required': 'تم رفض المستندات، مطلوب مستندات إضافية',
+      'approve documents' : 'الموافقة على المستندات',
+      'are you sure you want to approve these documents?': 'هل أنت متأكد أنك تريد الموافقة على هذه المستندات؟',
+      'reject docments': 'رفض المستندات',
+      'are you sure you want to reject these documents? This will require the customer to submit additional documents.' : 'هل أنت متأكد أنك تريد رفض هذه المستندات؟ سيتطلب هذا من العميل تقديم مستندات إضافية.',
+      'ok' : 'تمام',
+      'failed to download file': 'فشل في تنزيل الملف',
+      'failed to open document': 'فشل في فتح المستند',
+      'file was not created successfully': 'لم يتم إنشاء الملف بنجاح',
+      'could not open file': 'تعذر فتح الملف',
+      'failed to update status': 'فشل في تحديث الحالة',
+      'request additional documents': 'طلب مستندات إضافية',
+      'requested additional documents': 'المستندات الإضافية المطلوبة',
+      'enter document name': 'أدخل اسم المستند...',
+      'add': 'إضافة',
+      'add document': 'إضافة مستند',
+      'request': 'طلب',
+      'note additional documents info': 'ملاحظة: سيؤدي هذا إلى تغيير حالة الطلب إلى "قيد التنفيذ" وحالة المستند إلى "مستندات إضافية مطلوبة".',
+      'invalid document url': 'رابط المستند غير صالح',
+      'pending • additional document': 'قيد الانتظار • مستند إضافي',
+      'uploaded additional documents': 'تم رفع المستندات الإضافية',
+      'retry': 'إعادة المحاولة',
+      'additional documents required': 'مطلوب مستندات إضافية',
+      
+      // Documents Page
+      'documents': 'المستندات',
+      'view': 'عرض',
+      'requestadditional': 'طلب مستندات إضافية',
+      
+      // Complete Order Page
+      'completeordertitle': 'إكمال الطلب',
+      'finaldocsubtitle': 'يرجى تحميل جميع المستندات المطلوبة لإكمال الطلب.',
+      'uploaddocuments': 'تحميل مستنداتك',
+      'supportfiles': 'أنواع الملفات المدعومة: PNG، JPG، PDF',
+      'browse': 'تصفح',
+      'submitsend': 'إرسال وتقديم',
+      
+      // Chat Page
+      'chattitle': 'الدردشات',
+      
+      // Choose Order
+      'chooseordertitle': 'اختر إجراء الطلب',
+      'ordersubtitle': 'يرجى اختيار كيفية المتابعة مع هذا الطلب:',
+      'category': 'الفئة: تشكيل الشركات',
+      "accept myself": "قبول الطلب بنفسي",
+      'assign others': 'تعيين آخرين',
+      'assigntovendor': 'تعيين إلى البائع',
+      'assign': 'تعيين',
+      'no orders found': 'لم يتم العثور على أي طلبات',
+      'failed to assign order': 'فشل في تعيين الطلب:',
+      'no companies available': 'لا توجد شركات متاحة',
+      'assigned to': 'تم التعيين إلى',
+      'please select a company': 'يرجى اختيار شركة',
+      'buttonassign': 'تعيين',
+      
+      // Notification
+      'your order # has been assigned to a vendor and is now in progress': 'تم تعيين طلبك # إلى بائع وهو الآن قيد التنفيذ',
+      'your order has been assigned': 'تم تعيين طلبك',
+      'order assigned to you successfully': 'تم تعيين الطلب لك بنجاح',
+      'order assigned to vendor successfully': 'تم تعيين الطلب للبائع بنجاح',
+      
+      // Dialog
+      'no': 'لا',
+      'reject order': 'رفض الطلب',
+      'are you sure you want to reject this order?': 'هل أنت متأكد أنك تريد رفض هذا الطلب؟',
+      'yes': 'نعم',
+      'search vendors or companies': 'ابحث عن البائعين أو الشركات...',
+      
+      // Vendor Status Card
+     
+      'verify documents': 'تحقق من المستندات',
+      'documents uploaded' :'تم تحميل المستندات',
+      'documents approved': 'تمت الموافقة على المستندات',
+      'documents delivered' : 'تم تسليم المستندات',
+      'additional documents needed': 'مطلوب مستندات إضافية',
+
+      // Descriptions
+      'waiting for customer to upload required documents': 'في انتظار قيام العميل بتحميل المستندات المطلوبة.',
+      'please ensure that all necessary documents are collected and verified.': 'يرجى التأكد من جمع جميع المستندات المطلوبة والتحقق منها.',
+      'all necessary documents are collected for processing.': 'تم جمع جميع المستندات المطلوبة للمعالجة.',
+      'order fulfilled. All documents processed and delivered to customer.': 'تم تنفيذ الطلب ومعالجة وتسليم جميع المستندات للعميل.',
+      'requested additional documents from customer to complete verification.': 'تم طلب مستندات إضافية من العميل لإتمام عملية التحقق.',
+      'monitoring customer order progress. Current status:': 'يتم مراقبة تقدم طلب العميل. الحالة الحالية:',
+      
+      // Buttons
+      'view customer documents': 'عرض مستندات العميل',
+      'delivered documents': 'المستندات المسلَّمة',
+
+        'waiting for vendor acceptance': 'بانتظار موافقة البائع',
+       'assigned': 'مُعيّن '
+    },
+  };
+
+  static String get(String langCode, String key) {
+    final normalizedKey = key;
+    return _localizedValues[langCode]?[normalizedKey] ??
+        _localizedValues['en']?[normalizedKey] ??
+        key;
+  }
+
+  static bool hasTranslation(String langCode, String key) {
+    final normalizedKey = key;
+    return _localizedValues[langCode]?.containsKey(normalizedKey) ?? false;
+  }
+
+  static List<String> get availableLanguages => _localizedValues.keys.toList();
+}
